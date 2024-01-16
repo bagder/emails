@@ -60,7 +60,7 @@ sub fixup {
         push @n, "\n";
     }
     push @n, "## Links\n\n";
-    push @n, sprintf "[prev](%s) [up](%s) [next](%s)\n",
+    push @n, sprintf "[<< prev](%s) | [up](%s) | [next >> ](%s)\n",
         rel($a[$i - 1], $a[$i]),
         "../",
         rel($a[$i + 1], $a[$i]);
