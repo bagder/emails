@@ -17,3 +17,9 @@ The emails tend to be in one of these categories.
 I am [Daniel Stenberg](https://daniel.haxx.se). I am the lead developer of
 curl. curl is installed in some twenty billion installations worldwide. The
 curl license appears in many places and it contains my email address.
+
+## Start here
+
+Each email contains links in the bottom that easily continue to the next.
+
+[https://bagder.github.io/emails/2009/2009-03-21](start here)
