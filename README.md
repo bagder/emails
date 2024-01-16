@@ -22,4 +22,4 @@ curl license appears in many places and it contains my email address.
 
 Each email contains links in the bottom that easily continue to the next.
 
-[https://bagder.github.io/emails/2009/2009-03-21](start here)
+[start here](https://bagder.github.io/emails/2009/2009-03-21)
