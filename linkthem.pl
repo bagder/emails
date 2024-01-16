@@ -45,16 +45,22 @@ sub fixup {
     my ($i) = @_;
     my $f = $a[$i];
     my @n;
+    my $blank;
     open(F, "<$f");
     while(<F>) {
+        chomp;
         if(/^## Links/) {
             last;
         }
-        push @n, $_;
+        push @n, "$_\n";
+        $blank = length($_);
     }
     close(F);
+    if($blank) {
+        push @n, "\n";
+    }
     push @n, "## Links\n\n";
-    push @n, sprintf "[<<](%s) [↑](%s) [>>](%s)\n",
+    push @n, sprintf "[prev](%s) [up](%s) [next](%s)\n",
         rel($a[$i - 1], $a[$i]),
         "../",
         rel($a[$i + 1], $a[$i]);
