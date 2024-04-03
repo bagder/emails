@@ -26,6 +26,8 @@ Each email contains prev/next links in the bottom.
 [here](https://bagder.github.io/emails/2017/2017-09-20.html) or
 [here](https://bagder.github.io/emails/2020/2020-03-21.html).
 
+[Index of all emails](list.md)
+
 ## Who am I ?
 
 I am [Daniel Stenberg](https://daniel.haxx.se). I am the lead developer of
