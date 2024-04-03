@@ -1,3 +1,7 @@
+# All emails listed
+
+This is the full index of the emails in the collection.
+
 |num|name|date|
 |---|----|----|
 |1|[Installer](2009/2009-03-21.md)|2009-03-21|
@@ -79,3 +83,5 @@
 |77|[you have hacked](2023/2023-11-26.md)|2023-11-26|
 |78|[Subject: Curl](2024/2024-03-17.md)|2024-03-17|
 |79|[Hammerwatch 2](2024/2024-03-19.md)|2024-03-19|
+
+[back to main page](../)
