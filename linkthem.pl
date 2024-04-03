@@ -46,9 +46,14 @@ sub fixup {
     my $f = $a[$i];
     my @n;
     my $blank;
+    my $title;
     open(F, "<$f");
     while(<F>) {
         chomp;
+        if(/^# (.*)/ && !$title) {
+            $name{$f} = $1;
+            $title = 1;
+        }
         if(/^## Links/) {
             last;
         }
@@ -73,3 +78,33 @@ sub fixup {
 for $i (0 .. $#a) {
     fixup($i);
 }
+
+sub dateit {
+    my ($path) = @_;
+    # remove the leading year dir
+    $path =~ s/\d\d\d\d\///;
+    # remove the extension
+    $path =~ s/\.md\z//;
+    return $path;
+}
+
+print <<HEAD
+# All emails listed
+
+This is the full index of the emails in the collection.
+
+|num|name|date|
+|---|----|----|
+HEAD
+    ;
+for $i (0 .. $#a) {
+    my $f = $a[$i];
+    printf "|%d|[%s](%s)|%s|\n", $i + 1, $name{$f}, $f, dateit($f);
+}
+
+
+print <<HEAD
+
+[back to main page](../)
+HEAD
+    ;
