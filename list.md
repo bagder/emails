@@ -48,7 +48,7 @@ This is the full index of the emails in the collection.
 |42|[device was rooted](2021/2021-01-10.md)|2021-01-10|
 |43|[HAKSIZ](2021/2021-01-27.md)|2021-01-27|
 |44|[Long shot](2021/2021-02-14.md)|2021-02-14|
-|45|[not working](2021/2021-02-14b.md)|2021-02-14b|
+|45|[not working](2021/2021-02-14b.md)|2021-02-14|
 |46|[I will slaughter you](2021/2021-02-19.md)|2021-02-19|
 |47|[that hurt](2021/2021-02-24.md)|2021-02-24|
 |48|[Miles Morales](2021/2021-04-04.md)|2021-04-04|

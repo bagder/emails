@@ -85,6 +85,8 @@ sub dateit {
     $path =~ s/\d\d\d\d\///;
     # remove the extension
     $path =~ s/\.md\z//;
+    # remove letters (like 'b')
+    $path =~ s/[a-z]//g;
     return $path;
 }
 
