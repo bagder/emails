@@ -4,7 +4,7 @@ This is a collection of emails I have received over the years. I have tried to
 remove all names, email addresses and some company names.
 
 Except the redaction of personal identifiable information, the contents of the
-emails are shown exactly as I receivied them.
+emails are shown exactly as I received them.
 
 The emails tend to be in one of these categories.
 
@@ -15,7 +15,7 @@ The emails tend to be in one of these categories.
 
 - Random weirdness
 
-To the best of my knowledge, none of these emails were sent ironic or as
+To the best of my knowledge, none of these emails were sent ironically or as
 jokes.
 
 ## Start here
@@ -28,7 +28,7 @@ Each email contains prev/next links in the bottom.
 
 [Index of all emails](list.md)
 
-## Who am I ?
+## Who am I?
 
 I am [Daniel Stenberg](https://daniel.haxx.se). I am the lead developer of
 [curl](https://curl.se/). curl runs in some twenty billion installations
