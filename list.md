@@ -85,5 +85,6 @@ This is the full index of the emails in the collection.
 |79|[Hammerwatch 2](2024/2024-03-19.md)|2024-03-19|
 |80|[the most advanced toolkit in the world](2024/2024-05-20.md)|2024-05-20|
 |81|[Rainbow 6 Siege Activation issue](2024/2024-06-03.md)|2024-06-03|
+|82|[Question regarding you hacking my webserver?](2024/2024-08-07.md)|2024-08-07|
 
 [back to main page](../)
