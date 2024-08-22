@@ -87,5 +87,6 @@ This is the full index of the emails in the collection.
 |81|[Rainbow 6 Siege Activation issue](2024/2024-06-03.md)|2024-06-03|
 |82|[Question regarding you hacking my webserver?](2024/2024-08-07.md)|2024-08-07|
 |83|[U.S. Department of Energy](2024/2024-08-14.md)|2024-08-14|
+|84|[solve my issue](2024/2024-08-21.md)|2024-08-21|
 
 [back to main page](../)
