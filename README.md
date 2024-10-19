@@ -20,13 +20,7 @@ jokes.
 
 ## Start here
 
-Each email contains prev/next links in the bottom.
-
-[start here](https://bagder.github.io/emails/2009/2009-03-21),
-[here](https://bagder.github.io/emails/2017/2017-09-20.html) or
-[here](https://bagder.github.io/emails/2020/2020-03-21.html).
-
-[Index of all emails](list.md)
+Read them [here](https://daniel.haxx.se/email/).
 
 ## Who am I?
 
