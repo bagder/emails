@@ -90,5 +90,6 @@ This is the full index of the emails in the collection.
 |84|[solve my issue](2024/2024-08-21.md)|2024-08-21|
 |85|[Learn to Play the Piano](2024/2024-08-28.md)|2024-08-28|
 |86|[DDoS service using you](2024/2024-09-07.md)|2024-09-07|
+|87|[Yamaha Piano](2024/2024-10-29.md)|2024-10-29|
 
 [back to main page](../)
