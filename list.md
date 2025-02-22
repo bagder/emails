@@ -91,6 +91,7 @@ This is the full index of the emails in the collection.
 |85|[Learn to Play the Piano](2024/2024-08-28.md)|2024-08-28|
 |86|[DDoS service using you](2024/2024-09-07.md)|2024-09-07|
 |87|[Yamaha Piano](2024/2024-10-29.md)|2024-10-29|
-|88|[Hey](2024/2024-12-10.md)|2024-12-10|
+|88|[Hay](2024/2024-12-10.md)|2024-12-10|
+|89|[Interview request](2025/2025-02-22.md)|2025-02-22|
 
 [back to main page](../)
