@@ -95,5 +95,6 @@ This is the full index of the emails in the collection.
 |89|[Interview request](2025/2025-02-22.md)|2025-02-22|
 |90|[fortnite](2025/2025-03-16.md)|2025-03-16|
 |91|[thank you for your existence](2025/2025-05-20.md)|2025-05-20|
+|92|[your game sucks](2025/2025-06-08.md)|2025-06-08|
 
 [back to main page](../)
