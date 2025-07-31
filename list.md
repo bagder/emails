@@ -97,5 +97,6 @@ This is the full index of the emails in the collection.
 |91|[thank you for your existence](2025/2025-05-20.md)|2025-05-20|
 |92|[your game sucks](2025/2025-06-08.md)|2025-06-08|
 |93|[My car has a failure](2025/2025-06-24.md)|2025-06-24|
+|94|[thank you for making my phone](2025/2025-07-30.md)|2025-07-30|
 
 [back to main page](../)
