@@ -99,5 +99,6 @@ This is the full index of the emails in the collection.
 |93|[My car has a failure](2025/2025-06-24.md)|2025-06-24|
 |94|[thank you for making my phone](2025/2025-07-30.md)|2025-07-30|
 |95|[please reset my computer](2025/2025-10-11.md)|2025-10-11|
+|96|[what is this thing](2025/2025-10-20.md)|2025-10-20|
 
 [back to main page](../)
