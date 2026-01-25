@@ -101,5 +101,6 @@ This is the full index of the emails in the collection.
 |95|[please reset my computer](2025/2025-10-11.md)|2025-10-11|
 |96|[what is this thing](2025/2025-10-20.md)|2025-10-20|
 |97|[activation code](2025/2025-12-18.md)|2025-12-18|
+|98|[Battleye](2026/2026-01-25.md)|2026-01-25|
 
 [back to main page](../)
