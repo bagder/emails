@@ -103,5 +103,6 @@ This is the full index of the emails in the collection.
 |97|[activation code](2025/2025-12-18.md)|2025-12-18|
 |98|[Battleye](2026/2026-01-25.md)|2026-01-25|
 |99|[the game is lagging](2026/2026-02-26.md)|2026-02-26|
+|100|[SAGA in QGIS](2026/2026-03-25.md)|2026-03-25|
 
 [back to main page](../)
